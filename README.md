@@ -37,3 +37,6 @@ Evidence of Completion
 * **Least Privilege:** Only giving a user the exact permissions they need.
 * **CLI Efficiency:** Managing an OS faster through PowerShell than a GUI.
 * **Package Repositories:** Using trusted sources like Winget for software integrity.
+
+  Conclusion
+Understanding a computer is about seeing how multiple layers work in harmony. It starts with the Hardware (CPU, RAM, and Storage) providing the raw power and "workspace." The BIOS/UEFI acts as the initial spark, running the POST to ensure the physical components are healthy before handing the reins to the Operating System.
